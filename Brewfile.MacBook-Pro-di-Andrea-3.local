@@ -10,6 +10,7 @@ cask "cameracontroller"
 cask "rar"
 cask "vlc"
 mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
+mas "Amphetamine", id: 937984704
 mas "AutoMounter", id: 1160435653
 mas "Bitwarden", id: 1352778147
 mas "GarageBand", id: 682658836
@@ -20,6 +21,7 @@ mas "Magnet", id: 441258766
 mas "MindNode", id: 1289197285
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Push to Kindle", id: 1548529953
 mas "Save to Pocket", id: 1477385213
 mas "Sonic Racing", id: 1461172325
 mas "Spark", id: 1176895641
