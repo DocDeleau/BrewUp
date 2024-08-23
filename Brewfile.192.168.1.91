@@ -1,0 +1,43 @@
+tap "homebrew/bundle"
+tap "homebrew/cask-drivers"
+brew "boost"
+brew "python@3.12"
+brew "unbound"
+brew "gnutls"
+brew "emacs"
+brew "cask"
+brew "guile"
+brew "mas"
+brew "webp"
+brew "qt"
+brew "mkvtoolnix", link: false
+brew "pipx"
+brew "python@3.9"
+cask "cameracontroller"
+cask "mediainfo"
+cask "mkvtoolnix"
+cask "qlvideo"
+cask "rar"
+cask "vlc"
+mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
+mas "AutoMounter", id: 1160435653
+mas "Bitwarden", id: 1352778147
+mas "Calendars", id: 608834326
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keepa - Price Tracker", id: 1533805339
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "MindNode", id: 1289197285
+mas "Mini Metro+", id: 1550663539
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Push to Kindle", id: 1548529953
+mas "Remote Desktop", id: 409907375
+mas "Save to Pocket", id: 1477385213
+mas "Spark", id: 1176895641
+mas "Speedtest", id: 1153157709
+mas "Telegram", id: 747648890
+mas "Twitter", id: 1482454543
+mas "Wipr", id: 1320666476
+mas "YI Home", id: 1215244636
