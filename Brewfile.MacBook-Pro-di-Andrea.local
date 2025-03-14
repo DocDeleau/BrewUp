@@ -1,7 +1,6 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-drivers"
 brew "boost"
-brew "python@3.12"
 brew "unbound"
 brew "gnutls"
 brew "emacs"
@@ -12,6 +11,7 @@ brew "webp"
 brew "qt"
 brew "mkvtoolnix", link: false
 brew "pipx"
+brew "python@3.12"
 brew "python@3.9"
 cask "cameracontroller"
 cask "mediainfo"
@@ -21,6 +21,7 @@ cask "rar"
 cask "vlc"
 mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
 mas "AutoMounter", id: 1160435653
+mas "Balatro+", id: 6502451661
 mas "Bitwarden", id: 1352778147
 mas "Calendars", id: 608834326
 mas "GarageBand", id: 682658836
@@ -37,7 +38,9 @@ mas "Remote Desktop", id: 409907375
 mas "Save to Pocket", id: 1477385213
 mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
+mas "Tailscale", id: 1475387142
 mas "Telegram", id: 747648890
 mas "Twitter", id: 1482454543
+mas "Windows App", id: 1295203466
 mas "Wipr", id: 1320666476
 mas "YI Home", id: 1215244636
