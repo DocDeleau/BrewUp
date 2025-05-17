@@ -1,18 +1,24 @@
 tap "homebrew/bundle"
 tap "homebrew/cask-drivers"
+brew "webp"
 brew "boost"
 brew "unbound"
 brew "gnutls"
 brew "emacs"
 brew "cask"
+brew "ffmpeg"
 brew "guile"
+brew "python@3.12"
 brew "mas"
-brew "webp"
 brew "qt"
 brew "mkvtoolnix", link: false
+brew "nmap"
+brew "pytorch"
+brew "openai-whisper"
 brew "pipx"
-brew "python@3.12"
 brew "python@3.9"
+brew "wakeonlan"
+cask "android-platform-tools"
 cask "cameracontroller"
 cask "mediainfo"
 cask "mkvtoolnix"
@@ -21,7 +27,7 @@ cask "rar"
 cask "vlc"
 mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
 mas "AutoMounter", id: 1160435653
-mas "Balatro+", id: 6502451661
+mas "Balatro", id: 6502451661
 mas "Bitwarden", id: 1352778147
 mas "Calendars", id: 608834326
 mas "GarageBand", id: 682658836
@@ -32,9 +38,11 @@ mas "Magnet", id: 441258766
 mas "MindNode", id: 1289197285
 mas "Mini Metro+", id: 1550663539
 mas "Numbers", id: 409203825
+mas "Orb", id: 6477840170
 mas "Pages", id: 409201541
 mas "Push to Kindle", id: 1548529953
 mas "Remote Desktop", id: 409907375
+mas "Sauce for Strava™", id: 1570922521
 mas "Save to Pocket", id: 1477385213
 mas "Spark", id: 1176895641
 mas "Speedtest", id: 1153157709
